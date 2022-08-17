@@ -1,0 +1,34 @@
+ [
+    {
+   
+    "nome": "LIU KANG",
+    "forca": 49.000,
+    "vida":  75.000 ,
+    "foto": "./assets/images/Liu_Kang.gif"
+    },
+    
+    {
+    
+    "nome":"RAIDEN",
+    "forca":1248.000 ,
+    "vida":  1365.000 ,
+    "foto": "./assets/images/raiden.gif"
+    },
+    
+    {
+    
+    "nome":"SHANG TSUNG",
+    "forca":53.054 ,
+    "vida":143.733   ,
+    "foto": "./assets/images/shang_tsung.gif"
+    },
+   
+    {
+   
+    "nome":"SHAO KAHN",
+    "forca":1500.000 ,
+    "vida":  1500.000 ,
+    "foto": "./assets/images/Shao_Kahn"
+    }
+  
+]
